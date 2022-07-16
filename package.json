@@ -1,7 +1,11 @@
 {
   "name": "my-app",
   "version": "0.1.0",
+<<<<<<< HEAD
   "homepage": "https://haydenthai.github.io/haydenthai.github.io",
+=======
+  "homepage": "https://haydenthai.github.io",
+>>>>>>> 660c0b0f74b2c3da64e3a8d616e078432f770e9a
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.3",
